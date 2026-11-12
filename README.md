@@ -32,8 +32,8 @@ Outputs are strictly validated against **Table 3** of the specification, providi
 ### Installation
 ```bash
 # 1. Clone repository
-git clone <repository_url>
-cd assesment
+git clone https://github.com/dev-arslan-shahzad/orzeh-cv-screening.git
+cd orzeh-cv-screening
 
 # 2. Create virtual environment
 python -m venv .venv
