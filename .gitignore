@@ -19,3 +19,7 @@ videos/*.mp4
 # OS metadata
 .DS_Store
 Thumbs.db
+
+# Submission Archives
+*.zip
+

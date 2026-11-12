@@ -1,8 +1,14 @@
 # Automated Kitchen Hygiene & Food Safety Behaviour Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-rmCbfjvTlZPn8M2oATblQdlONiLk7mT)
+[![Google Drive Folder](https://img.shields.io/badge/Google%20Drive-Public%20Evaluation%20Folder-blue.svg?logo=googledrive)](https://drive.google.com/drive/folders/1IJegt-4xCi1VFAKMQeCt_Q3Q5S195BdI)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Device: CPU/GPU](https://img.shields.io/badge/Device-CPU%20%7C%20CUDA-green.svg)]()
+
+> **Quick Cloud Evaluation:** Evaluators without a local GPU can run the entire pipeline interactively with 1 click on a free Tesla T4 GPU in Google Colab:  
+> 👉 **[Open `Orzeh_CV_Screening_Evaluation.ipynb` in Google Colab](https://colab.research.google.com/drive/1-rmCbfjvTlZPn8M2oATblQdlONiLk7mT)**  
+> Public Google Drive Directory (no sign-in required): **[Access Public Evaluation Folder](https://drive.google.com/drive/folders/1IJegt-4xCi1VFAKMQeCt_Q3Q5S195BdI)**
 
 A robust, fully local, open-source computer vision pipeline developed for the **Orzeh Technologies Computer Vision Candidate Screening Task**. 
 
