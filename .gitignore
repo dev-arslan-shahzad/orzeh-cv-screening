@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Evaluation Videos (Confidential per Section 6)
+videos/*.mp4
+
+# Models & HuggingFace caches
+*.pt
+*.bin
+*.safetensors
+
+# OS metadata
+.DS_Store
+Thumbs.db
